@@ -19,11 +19,6 @@ I love exploring how machines understand language and enjoy building intelligent
 
 ---
 
-## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan156&layout=compact&theme=radical)  
-
----
-
 ## 📚 Learning / What’s Next  
 
 - Diving deeper into **transformers** and **large language models**  

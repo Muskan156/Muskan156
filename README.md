@@ -1,7 +1,7 @@
 # Hi 👋, I’m Muskan Shaikh  
 
 ### About Me  
-I’m passionate about **Machine Learning** and **Natural Language Processing**.  
+I’m passionate about **Machine Learning** and **Full Stack Developement**.  
 I love exploring how machines understand language and enjoy building intelligent systems with Python.  
 
 ---
@@ -14,7 +14,6 @@ I love exploring how machines understand language and enjoy building intelligent
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
 </p>
 
 ---
